@@ -87,5 +87,14 @@
       "link": "https://facebook.com"
     }
   ],
-  "blacklist": []
+  "blacklist": [
+    {
+      "id": "bl_1787973617316",
+      "name": "Rehan",
+      "description": "Scam",
+      "kronologi": "Gini deh gitu",
+      "modus": "Ygy",
+      "status": "Diblacklist permanen dari jaringan LippTabii"
+    }
+  ]
 }
