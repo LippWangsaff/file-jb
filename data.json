@@ -1,0 +1,91 @@
+{
+  "config": {
+    "title": "LippTabii",
+    "description": "Jual, Beli, dan Rental Account Game #1 di Indonesia 🇮🇩",
+    "logo_url": "https://raw.githubusercontent.com/LippWangsaff/file-jb/main/logo.jpg",
+    "loader_logo_url": "https://raw.githubusercontent.com/LippWangsaff/file-jb/main/logo.jpg",
+    "home_logo_url": "https://raw.githubusercontent.com/LippWangsaff/file-jb/main/logo.jpg",
+    "ticker_text": "PENGUMUMAN PENTING: Waspada terhadap penipuan mengatasnamakan LippTabii. Transaksi HANYA melalui kontak resmi yang tertera di website ini!"
+  },
+  "banners": [
+    {
+      "id": "b1",
+      "image_url": "https://raw.githubusercontent.com/LippWangsaff/file-jb/main/elaina.jpg",
+      "redirect_enabled": false,
+      "redirect_url": ""
+    }
+  ],
+  "quick_links": {
+    "buy": "https://www.lipptabii.com",
+    "rent": "https://www.lipptabii.com",
+    "testi": "https://www.lipptabii.com"
+  },
+  "categories": [
+    {
+      "id": "groupjb",
+      "slug": "groupjb",
+      "title": "Group JB",
+      "subtitle": "Gabung grup jual beli terverifikasi kami",
+      "card_desc": "Group JB Resmi LippTabii",
+      "logo_url": "https://raw.githubusercontent.com/LippWangsaff/file-jb/main/logo.jpg",
+      "items": [
+        {
+          "id": "g1",
+          "name": "Group JB #1 Mobile Legends",
+          "subtext": "WhatsApp Group Resmi",
+          "link": "https://chat.whatsapp.com/",
+          "image_url": "https://raw.githubusercontent.com/LippWangsaff/file-jb/main/elaina.jpg"
+        }
+      ]
+    },
+    {
+      "id": "saluran",
+      "slug": "saluran",
+      "title": "Saluran WhatsApp",
+      "subtitle": "Ikuti Saluran WhatsApp Resmi LippTabii",
+      "card_desc": "Saluran Resmi LippTabii",
+      "logo_url": "https://raw.githubusercontent.com/LippWangsaff/file-jb/main/logo.jpg",
+      "items": [
+        {
+          "id": "s1",
+          "name": "Saluran WhatsApp LippTabii",
+          "subtext": "Info Akun & Update Stok",
+          "link": "https://whatsapp.com/channel/",
+          "image_url": "https://raw.githubusercontent.com/LippWangsaff/file-jb/main/elaina.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hubungi-admin",
+      "slug": "hubungi-admin",
+      "title": "Hubungi Admin",
+      "subtitle": "Kami siap membantu transaksi Anda 24 jam",
+      "card_desc": "Nomor Resmi LippTabii",
+      "logo_url": "https://raw.githubusercontent.com/LippWangsaff/file-jb/main/logo.jpg",
+      "items": [
+        {
+          "id": "a1",
+          "name": "Admin Utama",
+          "subtext": "WhatsApp Resmi LippTabii",
+          "link": "081234567890",
+          "image_url": "https://raw.githubusercontent.com/LippWangsaff/file-jb/main/elaina.jpg"
+        }
+      ]
+    }
+  ],
+  "sosmed": [
+    {
+      "platform": "tiktok",
+      "link": "https://tiktok.com"
+    },
+    {
+      "platform": "instagram",
+      "link": "https://instagram.com"
+    },
+    {
+      "platform": "facebook",
+      "link": "https://facebook.com"
+    }
+  ],
+  "blacklist": []
+}
